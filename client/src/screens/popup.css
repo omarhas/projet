@@ -1,0 +1,27 @@
+.bordure {
+  border-radius: 25px;
+}
+
+.bouton {
+  background-color: #47799c;
+  border-color: #47799c;
+  color: white;
+  font-size: medium;
+  border-radius: 25px;
+  margin: 10px;
+  padding: 10px;
+  width: 450px;
+}
+
+.type {
+  width: 250px;
+  border: 1px solid gray;
+}
+
+.icon {
+  justify-content: center;
+}
+
+.alignright {
+  text-align: right;
+}

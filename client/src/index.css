@@ -1,0 +1,12 @@
+.select1 {
+  border: 2px solid gray;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+.tableau {
+  background-color: #f7fafa;
+  margin-top: "15px";
+  padding-top: "10px";
+  font-family: Arial, Helvetica, sans-serif;
+}
